@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Dadflip Solution | Welcome",
+  title: "Dadflip Solutions",
   description: "Dadflip Solutions website",
 };
 
