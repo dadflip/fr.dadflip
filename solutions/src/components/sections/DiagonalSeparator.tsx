@@ -1,0 +1,9 @@
+export default function DiagonalSeparator() {
+    return (
+        <div className="bg-black">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
+            <path fill="#000000" fill-opacity="1" d="M0,128L1440,320L1440,0L0,0Z"></path>
+          </svg>
+        </div>
+    );
+}
