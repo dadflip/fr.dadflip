@@ -1,0 +1,51 @@
+[
+  {
+    "key": "dadflipSolutions",
+    "label": "Dadflip Solutions",
+    "href": "/",
+    "menu": ["header", "footer"]
+  },
+  {
+    "key": "flipApp",
+    "label": "Flip App",
+    "href": "/flip",
+    "menu": ["header"]
+  },
+  {
+    "key": "magicButton",
+    "label": "Bouton Magique",
+    "href": "/magicbutton",
+    "menu": ["header"]
+  },
+  {
+    "key": "contact",
+    "label": "Contact",
+    "href": "/contact",
+    "menu": ["header", "footer"]
+  },
+  {
+    "key": "login",
+    "label": "Se connecter (indisponible...)",
+    "href": "/login",
+    "isLogin": true,
+    "menu": ["header"]
+  },
+  {
+    "key": "about",
+    "label": "A propos",
+    "href": "/about",
+    "menu": ["footer"]
+  },
+  {
+    "key": "privacyPolicy",
+    "label": "Privacy Policy",
+    "href": "/",
+    "menu": ["footer"]
+  },
+  {
+    "key": "legalMentions",
+    "label": "Mentions légales",
+    "href": "/about/dadflipsolutions",
+    "menu": ["footer"]
+  }
+]
